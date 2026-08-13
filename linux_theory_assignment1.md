@@ -137,6 +137,6 @@ A script can check the exit status to know if a command was successful or not.
 Non-zero = Error
 
 
-
+linux_theoryassignment1.png
 
 
