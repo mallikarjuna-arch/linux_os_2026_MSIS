@@ -72,7 +72,7 @@ It shows the first 10 lines of the file.
 
 It shows the last 10 lines of the file.
 
-
+![Linux Assignment 1.1](linux_assingment1.1.png)
 
 
 
